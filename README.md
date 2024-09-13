@@ -39,6 +39,3 @@ Exploratory data analysis (PCA, LDA, t-SNE) was conducted to visualize datasets 
 
 ## Conclusion
 The choice of CNN architecture should be based on dataset size, complexity, and available computational resources. VGG16 is best suited for tasks requiring high accuracy on small-to-medium datasets, while modified EfficientNet is ideal for large, complex datasets but may not be optimal for simpler tasks.
-
-## Authors
-We both contributed equally to implementing, testing, and analyzing all three CNN architectures.
